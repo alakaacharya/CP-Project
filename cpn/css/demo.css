@@ -1,0 +1,195 @@
+body {
+  background-color: orange ;}
+
+.container{
+    width:95%;
+    background-color:white; }
+
+/*--------------------------------------COMMONSSSSS  ------------- */
+h3{
+    font-family:chams bold;}
+
+h2{
+    text-align: center;
+    margin-right: 200px !important;}
+
+h4{
+    font:20px;
+margin-left: 10px;}
+
+.mybtns{
+    background-color: black;
+    opacity: .6;
+    color: white;
+    height:40px;
+    margin-left: 20px;}
+
+
+/*--------------------------------------NAVIGATION AREAAAA ------------- */
+.navbar-default{
+	background-color: black;
+	height:50px;
+	opacity:.8;
+    width:50%;
+	font-family:"lucida calligraphy";
+    font-size: 15px;
+    margin-left: 40px;
+    margin-right: auto; 
+float: left;}
+
+
+  .navbar-default a{
+  color: white !important;
+}  
+
+ ul li:hover{
+    background-color: orange;
+    color: white;
+  }
+
+.lognav{
+    background-color: black;
+    height:50px;
+    opacity:.8;
+    width:20%;
+    font-family:"lucida calligraphy";
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left; }
+
+
+  .lognav a{
+  color: white !important;
+}  
+
+ ul li:hover{
+    background-color: orange;
+    color: white;
+  }
+
+
+
+/*--------------------------------------SEARACH AREAAAA ------------- */
+   .searchhere{
+    margin-top: 30px;
+    margin-left: 250px;} 
+
+    .form-control{
+    height:40px;
+    background-color: orange;}
+
+.sel3{
+    width: 150px !important;
+    height: 45px;
+     margin-right: 20px; 
+}
+
+
+
+
+/*--------------------------------------CARAOUSEL HOME PAGE KO  ----------------------- */
+.item{
+    height:400px;
+}
+
+/*--------------------------------------LIST.PHP   ------------- */
+.alphabets{
+    text-decoration: underline;
+}
+.pres{
+    width:50%;
+    margin-top: 20px;
+}
+
+.hostelname{
+    float:left;
+}
+
+.hostelgotrate{
+    float: left;
+}
+
+.hostelbox{
+height:400px;
+width:250px;
+float:left;
+margin:20px 0px 0px 20px;
+border:0.3px solid grey;}
+
+.fa-map-marker-alt{
+    margin-left: 20px;}
+
+.fa-user{
+    margin-left: 20px;}
+
+.viewdetails{
+    background-color: orange;
+    height: 50px;
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+}
+
+.hosteltitle{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size:20px;
+}
+
+.pic{
+    height: 250px;
+}
+.loc{
+    height: 100px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+/*--------------------------------------ADDD YOURRR HOSTEELLLL  -------------------------- */
+.col-sm-5{
+margin-right:70px;
+}
+
+.servicecheck{
+    margin-top: 20px;
+}
+
+
+
+/*--------------------------------------FOOTER  -------------------------- */
+.row{
+   margin-bottom: 20px;
+}
+
+.icon{
+  margin-right: 20px;
+}
+
+.links{
+    float: right;
+}
+
+.panel-footer{
+    background-color:black;
+    opacity:.6;
+    color:white; 
+}
+
+
+
+/* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally 
+@media screen and (max-width: 600px) {
+    .navbar a, .navbar input[type=text] {
+        float: none;
+        display: block;
+        text-align: left;
+        width: 100%;
+        margin: 0;
+        padding: 14px;
+    }
+    .navbar input[type=text] {
+        border: 1px solid #ccc;
+    }
+}
+*/
